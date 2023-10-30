@@ -154,9 +154,5 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Youssef Abouyahia - [Github](https://github.com/Josh-techie) 
-Abdallah Abdeen - [Github](https://github.com/AbdeenEG)
-
-Second part of Airbnb: Joann Vuong
-## License
-Public Domain. No copy write protection. 
+Kipronoh Vincent - [Github](https://github.com/KipronohVincent)
+Zebbylion Njau - [Github](https://github.com/zebbyG)
